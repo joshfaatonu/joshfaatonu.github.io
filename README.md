@@ -5,14 +5,6 @@
 
 ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
-## Blockquotes
-
-> This is a blockquote.
-
-## Code Blocks
-
-Inline code: `code`
-
 
 <div class="tabs">
     <button class="tablink" onclick="openTab('personal')">Personal Details</button>
