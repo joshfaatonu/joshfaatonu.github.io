@@ -13,7 +13,7 @@
 
 
 
-[GitHub](https://github.com)
+[GitHub](https://[github.com](https://github.com/joshfaatonu/Semester-Projects.git))
 
 ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
